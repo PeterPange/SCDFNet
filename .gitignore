@@ -1,0 +1,14 @@
+# Model weights
+Backbone/
+Checkpoints/
+
+# Paper files
+SCDFNet_Springer.pdf
+paper.txt
+
+# Training / evaluation logs and saved predictions
+Logs/
+
+# Python bytecode
+__pycache__/
+*.pyc
